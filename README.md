@@ -19,7 +19,7 @@ Repositório criado para a minha aplicação do Desafio Sharenergy 2023. Contato
 ## Portas
 
 Client: `localhost:3000`
-Server `localhost:3001`
+Server: `localhost:3001`
 
 ## Tecnologias Usadas
 
