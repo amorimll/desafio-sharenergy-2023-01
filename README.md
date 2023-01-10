@@ -13,7 +13,8 @@ Repositório criado para a minha aplicação do Desafio Sharenergy 2023.
 
 1. Use o comando `git clone https://github.com/amorimll/desafio-sharenergy-2023-01`
 2. Entre nas pastas "client" e "server", e execute o comando `npm install` em ambas as pastas.
-3. Após instaladas as depedências, execute o comando `npm run dev` em ambas as pasta, e a aplicação vai iniciar.
+3. Crie um arquivo .env na pasta "server", e crie as seguinte variáveis, `MONGO_URL="mongodb://localhost/sharenergy-backend"`, `JWT_SECRET = "SHARENERGYSECUREPASS"` e `PORT=3001`
+4. Após instaladas as depedências, execute o comando `npm run dev` em ambas as pasta, e a aplicação vai iniciar.
 
 ## Portas
 
