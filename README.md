@@ -1,5 +1,5 @@
 # Desafio Sharenergy 2023 Back End Jr.
-Repositório criado para a minha aplicação do Desafio Sharenergy 2023. Contato: (mailto:gabrielmaia.amorim01@gmail.com)
+Repositório criado para a minha aplicação do Desafio Sharenergy 2023. Contato: [gabrielmaia.amorim01@gmail.com](mailto:gabrielmaia.amorim01@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 ## Deploy e Links
 - Deploy do projeto: https://sharenergy-client.vercel.app/
