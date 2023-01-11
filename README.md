@@ -4,7 +4,7 @@ Repositório criado para a minha aplicação do Desafio Sharenergy 2023. Contato
 
 ## Deploy e Links
 - Deploy do projeto: https://sharenergy-client.vercel.app/
-- Vídeo explicativo: https://youtu.be/_ezj50MCbZA
+- Vídeo explicativo: https://youtu.be/Ea_-kZZrkBw
 
 # O Projeto
 
