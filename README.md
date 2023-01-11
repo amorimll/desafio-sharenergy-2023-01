@@ -2,7 +2,7 @@
 *Tive alguns problemas com o git e acabei perdendo os commits.* <br/>
 Repositório criado para a minha aplicação do Desafio Sharenergy 2023. Contato: [gabrielmaia.amorim01@gmail.com](mailto:gabrielmaia.amorim01@gmail.com?subject=[GitHub]%20Source%20Han%20Sans), https://www.linkedin.com/in/gabriel-amorim-45935b1a3/
 
-## Deploy e Links
+## Deploy e Vídeo
 - Deploy do projeto: https://sharenergy-client.vercel.app/
 - Vídeo explicativo: https://youtu.be/Ea_-kZZrkBw
 
